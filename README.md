@@ -19,3 +19,4 @@ These commands work for both windows and linux
 `python3 CO.py`
 
 **Output**
+![](https://github.com/DoddyJoel/LM35_Button/blob/master/Image/Captura%20de%20pantalla%20de%202020-09-18%2023-59-33.png)
