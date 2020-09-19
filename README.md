@@ -10,10 +10,11 @@ These commands work for both windows and linux
 `pip3 install pyserial`
 
 **Diagram**
-
+![](https://github.com/DoddyJoel/LM35_Button/blob/master/Image/Daring%20Bruticus.png)
 
 **Upload the code to th arduino**
 `make`
+
 **Start python code**
 `python3 CO.py`
 
